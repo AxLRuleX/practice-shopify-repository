@@ -15,11 +15,7 @@
         "heading": {
           "type": "heading",
           "settings": {
-<<<<<<< HEAD
             "heading": "Browse our latest products to try something new in local 2",
-=======
-            "heading": "Browse our latest products to try something new in live",
->>>>>>> f7052d6e7c300867b158458fcbbf4be3bc0845a4
             "heading_size": "h0"
           }
         },
